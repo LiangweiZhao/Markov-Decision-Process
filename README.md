@@ -1,4 +1,5 @@
 # Markov-Decision-Process
-MDP Algorithm Problem
+<h2>MDP Algorithm Problem</h2>
 
-<img src="https://github.com/LiangweiZhao/Markov-Decision-Process/probCoord.png" width="350">
+<img src="https://github.com/LiangweiZhao/Markov-Decision-Process/blob/master/probCoord.png" width="350">
+<
